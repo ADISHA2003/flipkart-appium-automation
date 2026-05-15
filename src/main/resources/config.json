@@ -1,0 +1,9 @@
+{
+  "appiumServerUrl": "http://127.0.0.1:4723",
+  "platformName": "Android",
+  "automationName": "UiAutomator2",
+  "deviceName": "Android",
+  "udid": "8TCAZLO7758L6DDQ",
+  "appPackage": "com.flipkart.android",
+  "appActivity": "com.flipkart.android.activity.HomeFragmentHolderActivity"
+}
